@@ -1,18 +1,8 @@
-Given a string, create a function which takes the string as an input and returns a boolean value of either True or False, based on the lexographical order of characters in the string.
-
-Input Format
-First line of input is number of strings Following lines are the strings
-
-Sample Input
-
-3
-abc
-hfedty
-123
+Problem 9
 
 
-Sample Output
+Write program that translates a text to Pig Latin. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’.
 
-true
-false
-true
+Example:
+Enter text: The quick brown fox
+Pig Latin: Hetay uickqay rownbay oxfay
